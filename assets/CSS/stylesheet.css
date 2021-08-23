@@ -1,0 +1,20 @@
+  body {
+      background-color: #ffffff;
+      font-family: "Poppins", "Helvetica Neue", Arial, sans-serif;
+  } 
+
+  .igs-entete {
+    background-color: black;
+    height: 100px;
+  }
+
+  .igs-menu {
+    position: absolute ;
+    right: 0px;
+    font-weight: bold;
+  }
+
+.igs-formation, .igs-projet, .igs-creation, .igs-propos, .igs-contact {
+  display: inline;
+  margin-right: 50px; 
+}
